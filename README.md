@@ -1,6 +1,6 @@
 # SIC_Capstone_Heros
 Clone the Github repo using the following command
-> !git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git
+'!git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git'
 
 # References
 ## Datasets:
