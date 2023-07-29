@@ -4,6 +4,11 @@ Clone the Github repo using the following command
 !git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git
 ```
 
+Create a pull request using the following command
+```
+Test
+```
+
 ## References
 - Datasets:
     - Hate Speech and Offensive Language Dataset: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
