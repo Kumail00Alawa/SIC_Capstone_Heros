@@ -1,4 +1,9 @@
-# SIC_Capstone_Heros
+# SIC_Capstone_Heros: Hate Speech and Offensive Language Detection Model
+
+## Contributors
+[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
+
+## Installation instructions
 Clone the Github repo using the following command
 ```
 git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git
