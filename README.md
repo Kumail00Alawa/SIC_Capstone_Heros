@@ -1,13 +1,46 @@
 # SIC_Capstone_Heros
 Clone the Github repo using the following command
 ```
-!git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git
+git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git
 ```
 
-Create a pull request using the following command
+Get into the new directory
 ```
-!git 
+cd SIC_Capstone_Heros
 ```
+
+Make sure that the code you have is up-to-date with others
+```
+git pull origin main
+```
+
+You're set to start modifying the code.
+
+Then, to upload the files after you have modified them, you have to execute the following commands.
+
+Switch to your branch
+```
+git checkout -b <your-branch-name>
+```
+
+Add the files to the stage
+```
+git add .
+```
+
+Commit your changes and add a message
+```
+git commit -m"<your-message-here>"
+```
+
+Push your changes and create a Pull Request
+```
+git push origin HEAD
+```
+
+Then click on the link that will take you to the GitHub page in which you can create a Pull Request.
+
+That's it!
 
 ## References
 - Datasets:
