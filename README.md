@@ -1,8 +1,5 @@
 # Hate Speech and Offensive Language Detection Model
 
-## Contributors
-[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
-
 ## Installation instructions
 Note: Only use the first two commands once as explained in the live session.
 Clone the Github repo using the following command
