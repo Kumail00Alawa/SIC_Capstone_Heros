@@ -47,7 +47,12 @@ Then click on the link that will take you to the GitHub page in which you can cr
 That's it!
 
 ## Authors
-- [Kumail Alawa]([url_of_github](https://github.com/Kumail00Alawa))
+- [Kumail Alawa](https://github.com/Kumail00Alawa)
+- Ghadi Babour
+- Shatha Alaryani
+- Sumat Almakhamil
+- Hassan Alghanim
+- Rahaf Alatiq
 
 ## References
 - Datasets:
