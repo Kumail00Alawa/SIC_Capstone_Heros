@@ -6,7 +6,7 @@ Clone the Github repo using the following command
 
 Create a pull request using the following command
 ```
-Test
+!git 
 ```
 
 ## References
