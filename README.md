@@ -48,7 +48,7 @@ That's it!
 
 ## Authors
 - [Kumail Alawa](https://github.com/Kumail00Alawa)
-- Ghadi Babour
+- [Ghadi Babour](https://github.com/GhadiHassan)
 - Shatha Alaryani
 - Sumat Almakhamil
 - Hassan Alghanim
