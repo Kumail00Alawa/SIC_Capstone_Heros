@@ -2,6 +2,7 @@
 
 ## Installation instructions
 Note: Only use the first two commands once as explained in the live session.
+
 Clone the Github repo using the following command
 ```
 git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git
