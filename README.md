@@ -46,6 +46,9 @@ Then click on the link that will take you to the GitHub page in which you can cr
 
 That's it!
 
+## Authors
+- [Kumail Alawa]([url_of_github](https://github.com/Kumail00Alawa))
+
 ## References
 - Datasets:
     - Hate Speech and Offensive Language Dataset: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
