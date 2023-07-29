@@ -3,17 +3,17 @@
 ## Installation instructions
 Note: Only use the first two commands once as explained in the live session.
 
-Clone the Github repo using the following command
+1. Clone the GitHub repo using the following command
 ```
 git clone https://github.com/Kumail00Alawa/SIC_Capstone_Heros.git
 ```
 
-Get into the new directory
+2. Get into the new directory
 ```
 cd SIC_Capstone_Heros
 ```
 
-Make sure that the code you have is up-to-date with others
+3. Make sure that the code you have is up-to-date with others
 ```
 git pull origin main
 ```
@@ -22,22 +22,22 @@ You're set to start modifying the code.
 
 Then, to upload the files after you have modified them, you have to execute the following commands.
 
-Switch to your branch
+4. Switch to your branch
 ```
 git checkout -b <your-branch-name>
 ```
 
-Add the files to the stage
+5. Add the files to the stage
 ```
 git add .
 ```
 
-Commit your changes and add a message
+6. Commit your changes and add a message
 ```
 git commit -m"<your-message-here>"
 ```
 
-Push your changes and create a Pull Request
+7. Push your changes and create a Pull Request
 ```
 git push origin HEAD
 ```
