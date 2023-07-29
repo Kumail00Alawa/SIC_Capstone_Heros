@@ -1,7 +1,8 @@
-# SIC_Capstone_Heros: Hate Speech and Offensive Language Detection Model
+# Hate Speech and Offensive Language Detection Model
+This project aims to develop a robust, scalable, and efficient machine learning model that can accurately identify, categorize, and flag hate speech and offensive content on social media platforms. By detecting such content, we will contribute to the creation of a safer online environment, helping to mitigate the spread of hate speech and promote positive discourse on social media platforms.
 
 ## Contributors
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/Kumail00Alawa/SIC_Capstone_Heros/graphs/contributors)
+[![](https://opencollective.com/SIC_Capstone_Heros/contributors.svg?width=890&button=false)](https://github.com/Kumail00Alawa/SIC_Capstone_Heros/graphs/contributors)
 
 ## Installation instructions
 Clone the Github repo using the following command
